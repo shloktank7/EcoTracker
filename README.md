@@ -4,5 +4,5 @@ This EcoTracker project will ask users a variety of questions, which they can us
 
 <!-- …your existing README content… -->
 
-[![Run on Replit](https://replit.com/badge/github/your-username/ecotracker)](https://replit.com/@your-username/EcoTracker)
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/your-username/ecotracker)
+[![Run on Replit](https://replit.com/badge/github/shloktank7/EcoTracker)](https://replit.com/shloktank7/EcoTracker)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/shloktank7/Ecotracker)
